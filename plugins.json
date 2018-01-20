@@ -1234,7 +1234,7 @@
         "freePlugin": true
     },
     {
-	    "name": "Lockett",
+	    "name": "Lockette",
 	    "desc": "Locks doors and stuff",
 	    "jarName": "Lockette.jar",
 	    "configName": "Lockette",
